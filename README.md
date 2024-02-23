@@ -1,13 +1,17 @@
 # test-automation-ghost
 
+Cloned Repository from a group project where I took part in.
+
+
 Proyecto final para el curso de Automatización de Prueba en el Desarrollo de Software brindado por la UPC
 
 APB Excel : https://docs.google.com/spreadsheets/d/12m-Ze1I1OZO-gfA5VE14nZgiGHah0psj/edit#gid=668547085
 
 APB Doc : https://docs.google.com/document/d/1rmftfyLFyKEYx1zuIeoir3y3T00bk2Fr/edit?rtpof=true&sd=true
 
-Presentaciòn : https://docs.google.com/presentation/d/1wt4DdL7Cx4CCD6thVkpcoRcKAt9obuulIzCdMmzPHpQ/edit#slide=id.p
+Documented issues: "https://github.com/xxgdexx/test-automation-ghost/issues" 
 
+Presentaciòn : https://docs.google.com/presentation/d/1wt4DdL7Cx4CCD6thVkpcoRcKAt9obuulIzCdMmzPHpQ/edit#slide=id.p
 
 https://docs.google.com/presentation/d/1wt4DdL7Cx4CCD6thVkpcoRcKAt9obuulIzCdMmzPHpQ/edit#slide=id.g25ee9d5e87b_5_33
 
