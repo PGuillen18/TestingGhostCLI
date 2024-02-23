@@ -1,6 +1,6 @@
 # test-automation-ghost
 
-Automatización de Prueba en el Desarrollo de Software
+Proyecto final para el curso de Automatización de Prueba en el Desarrollo de Software brindado por la UPC
 
 APB Excel : https://docs.google.com/spreadsheets/d/12m-Ze1I1OZO-gfA5VE14nZgiGHah0psj/edit#gid=668547085
 
